@@ -88,8 +88,6 @@ Both memberships must be confirmed by authentication using a separate connection
 ```
 PS C:\>New-NetFirewallRule -Name "Block Wireless In" -Direction Inbound -InterfaceType Wireless -Action Block
 
-
-
 PS C:\>New-NetFirewallRule -Name "Block Wireless Out" -Direction Outbound -InterfaceType Wireless -Action Block
 ```
 
@@ -131,7 +129,11 @@ Accept wildcard characters: False
 ```
 
 ### -AsJob
-ps_cimcommon_asjob
+Indicates that this cmdlet runs as a background job.
+
+When you specify the AsJob parameter, the command immediately returns an object that represents the background job. You can continue to work in the session while the job finishes. The job is created on the local computer and the results from the Skype for Business Online session are automatically returned to the local computer. To get the job results, use the Receive-Job cmdlet.
+
+For more information about Windows PowerShell background jobs, see [about_Jobs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_jobs?view=powershell-6) and [about_Remote_Jobs](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote_jobs?view=powershell-6).
 
 ```yaml
 Type: SwitchParameter
@@ -455,7 +457,7 @@ Aliases:
 
 Required: False
 Position: Named
-Default value: None
+Default value: Any
 Accept pipeline input: False
 Accept wildcard characters: False
 ```
