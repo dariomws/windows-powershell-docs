@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -52,4 +52,5 @@ A class structure that represents the properties for a federation server proxy i
 ## RELATED LINKS
 
 [Set-ADFSProxyConfiguration](./Set-ADFSProxyConfiguration.md)
+
 

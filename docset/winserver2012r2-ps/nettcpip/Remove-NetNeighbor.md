@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: E2F572BF-EA80-4967-93D3-643CD4BEF85C
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -383,4 +383,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Set-NetNeighbor](./Set-NetNeighbor.md)
 
 [Get-NetAdapter](../netadapter/Get-NetAdapter.md)
+
 

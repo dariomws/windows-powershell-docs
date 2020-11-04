@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 96270725-4A06-4893-9D86-036C7345F78F
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -306,4 +306,5 @@ This cmdlet generates an object that represents resiliency settings if you speci
 [Get-ResiliencySetting](./Get-ResiliencySetting.md)
 
 [Get-StoragePool](./Get-StoragePool.md)
+
 

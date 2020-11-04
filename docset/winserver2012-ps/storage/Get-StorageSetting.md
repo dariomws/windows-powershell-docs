@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 8E14EBFD-07B2-4C67-A093-F0E3FF824210
 manager: dansimp
@@ -105,4 +105,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 ## RELATED LINKS
 
 [Set-StorageSetting](./Set-StorageSetting.md)
+
 

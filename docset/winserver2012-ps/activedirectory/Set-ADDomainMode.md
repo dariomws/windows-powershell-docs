@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -343,4 +343,5 @@ By default, this cmdlet does not generate any output.
 ## RELATED LINKS
 
 [Get-ADDomain](./Get-ADDomain.md)
+
 

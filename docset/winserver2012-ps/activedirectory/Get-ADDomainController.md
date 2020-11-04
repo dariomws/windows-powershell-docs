@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -753,4 +753,5 @@ With the Identity or the Filter parameter, the HostName property will not be set
 [Get-ADDomainControllerPasswordReplicationPolicy](./Get-ADDomainControllerPasswordReplicationPolicy.md)
 
 [Remove-ADDomainControllerPasswordReplicationPolicy](./Remove-ADDomainControllerPasswordReplicationPolicy.md)
+
 

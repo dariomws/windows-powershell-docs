@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -372,4 +372,5 @@ Returns group objects that represent the security groups for the account.
 [Get-ADUser](./Get-ADUser.md)
 
 [Search-ADAccount](./Search-ADAccount.md)
+
 

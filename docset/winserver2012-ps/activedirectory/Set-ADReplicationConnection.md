@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -511,4 +511,5 @@ A connection object that was retrieved by using the Get-ADReplicationConnection 
 ## RELATED LINKS
 
 [Get-ADReplicationConnection](./Get-ADReplicationConnection.md)
+
 

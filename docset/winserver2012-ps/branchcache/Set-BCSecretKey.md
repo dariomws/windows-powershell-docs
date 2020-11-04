@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -166,4 +166,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Export-BCSecretKey](./Export-BCSecretKey.md)
 
 [Import-BCSecretKey](./Import-BCSecretKey.md)
+
 

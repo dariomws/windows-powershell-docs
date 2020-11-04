@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 0BFDB18C-49EA-4D2D-B810-BB2B5B3D34F8
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -125,4 +125,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
 
 [Set-WsusProduct](./Set-WsusProduct.md)
+
 

@@ -4,7 +4,7 @@ Module Name: BranchCache
 online version: 
 schema: 2.0.0
 title: Reset-BC
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -185,4 +185,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ## RELATED LINKS
 
 [Disable-BC](./Disable-BC.md)
+
 

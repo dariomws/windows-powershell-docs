@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: StorageProvider.cdxml-help.xml
@@ -211,5 +211,6 @@ You can use this object to perform storage management operations on the remote c
 [Get-Credential](http://go.microsoft.com/fwlink/?LinkID=293936)
 
 [Unregister-StorageSubsystem](./Unregister-StorageSubsystem.md)
+
 
 

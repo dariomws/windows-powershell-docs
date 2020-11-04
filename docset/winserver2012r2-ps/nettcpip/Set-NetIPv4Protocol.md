@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: ADC87872-8715-4158-A891-FB552685718B
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -510,4 +510,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Architectural Overview of the TCP/IP Protocol Suite on TechNet](http://technet.microsoft.com/library/bb726993.aspx)
 
 [Get-NetIPv4Protocol](./Get-NetIPv4Protocol.md)
+
 

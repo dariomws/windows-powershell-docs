@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 5F231C6A-F9F8-41A9-A427-D577A6E4BD1C
 manager: dansimp
@@ -227,4 +227,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Initialize-Disk](./Initialize-Disk.md)
 
 [Set-Disk](./Set-Disk.md)
+
 

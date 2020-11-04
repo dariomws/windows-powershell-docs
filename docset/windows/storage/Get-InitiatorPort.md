@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: InitiatorPort.cdxml-help.xml
@@ -306,5 +306,6 @@ This cmdlet returns an object that represents the initiator port you specified.
 [Select-Object](http://go.microsoft.com/fwlink/?LinkID=113387)
 
 [Set-InitiatorPort](./Set-InitiatorPort.md)
+
 
 

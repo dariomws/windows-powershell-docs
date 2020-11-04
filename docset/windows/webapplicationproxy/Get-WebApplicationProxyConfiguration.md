@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: WebApplicationProxy-help.xml
@@ -125,5 +125,6 @@ Displays the Web Application Proxy configuration.
 [Publishing Internal Applications using Web Application](http://technet.microsoft.com/library/dn383650.aspx)
 
 [Set-WebApplicationProxyConfiguration](./Set-WebApplicationProxyConfiguration.md)
+
 
 

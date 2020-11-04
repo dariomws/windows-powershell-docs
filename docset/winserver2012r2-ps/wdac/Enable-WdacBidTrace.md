@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 3A39F5C4-6AC1-4B3E-A4CB-4D6C876BA4B4
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -315,5 +315,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Disable-WdacBidTrace](./Disable-WdacBidTrace.md)
 
 [Get-WdacBidTrace](./Get-WdacBidTrace.md)
+
 
 

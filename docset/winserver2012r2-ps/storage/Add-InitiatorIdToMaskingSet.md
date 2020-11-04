@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 71993626-1CD8-4187-BE8E-AFD54B280F4E
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -258,4 +258,5 @@ If you specify the **Passthru** parameter, this cmdlet outputs an object that re
 [Get-InitiatorID](./Get-InitiatorId.md)
 
 [Get-InitiatorPort](./Get-InitiatorPort.md)
+
 

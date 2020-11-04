@@ -4,7 +4,7 @@ Module Name: Hyper-V
 online version: 
 schema: 2.0.0
 title: Remove-VMReplicationAuthorizationEntry
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -185,4 +185,5 @@ None by default; **VMReplicationAuthorizationEntry** if **-PassThru** is specifi
 ## NOTES
 
 ## RELATED LINKS
+
 

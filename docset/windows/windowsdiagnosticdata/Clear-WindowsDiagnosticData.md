@@ -4,7 +4,7 @@ Module Name: WindowsDiagnosticData
 online version:
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 title: Clear-WindowsDiagnosticData
 ---
@@ -64,3 +64,4 @@ For more information, see about_CommonParameters (http://go.microsoft.com/fwlink
 ## NOTES
 
 ## RELATED LINKS
+

@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 1E2C863D-B427-4523-90D4-1366CAE097D7
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -142,4 +142,5 @@ That object includes the following properties:
 [Get-SilData](./Get-SilData.md)
 
 [Get-SilLogging](./Get-SilLogging.md)
+
 

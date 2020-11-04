@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 96270725-4A06-4893-9D86-036C7345F78F
 manager: dansimp
@@ -283,4 +283,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 ## RELATED LINKS
 
 [Get-ResiliencySetting](./Get-ResiliencySetting.md)
+
 

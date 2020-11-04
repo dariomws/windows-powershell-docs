@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 Module Name: systeminsights
 Download Help Link: http://go.microsoft.com
 Locale: en-US
@@ -190,4 +190,5 @@ You can use the pipeline operator to pass a capability object to the *Name* para
 [Get-InsightsCapabilityAction](get-insightscapabilityaction.md)
 
 [Set-InsightsCapabilityAction](set-insightscapabilityaction.md)
+
 

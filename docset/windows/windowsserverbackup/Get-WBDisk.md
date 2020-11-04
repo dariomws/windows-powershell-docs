@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: wsbcmdlet.dll-Help.xml
@@ -74,5 +74,6 @@ This cmdlet returns an array of **WBDisk** objects for the hard disks that the c
 [New-WBBackupTarget](./New-WBBackupTarget.md)
 
 [Remove-WBBackupTarget](./Remove-WBBackupTarget.md)
+
 
 

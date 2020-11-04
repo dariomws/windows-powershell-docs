@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: CCE72FC8-4072-4E29-B317-E66990F23124
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -249,4 +249,5 @@ This cmdlet generates an object that represents the storage pools that you updat
 [Remove-StoragePool](./Remove-StoragePool.md)
 
 [Set-StoragePool](./Set-StoragePool.md)
+
 

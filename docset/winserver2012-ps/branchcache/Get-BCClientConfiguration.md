@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -103,4 +103,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Disable-BC](./Disable-BC.md)
 
 [Reset-BC](./Reset-BC.md)
+
 

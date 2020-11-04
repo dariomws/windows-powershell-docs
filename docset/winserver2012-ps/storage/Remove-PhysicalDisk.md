@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: BDA3A89C-247C-4D07-B11C-DF8E96853D35
 manager: dansimp
@@ -294,4 +294,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Reset-PhysicalDisk](./Reset-PhysicalDisk.md)
 
 [Set-PhysicalDisk](./Set-PhysicalDisk.md)
+
 

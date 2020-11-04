@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 11E13130-4BD0-4991-BCC9-1B10D1B69D84
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -302,4 +302,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Set-VirtualDisk](./Set-VirtualDisk.md)
 
 [Show-VirtualDisk](./Show-VirtualDisk.md)
+
 

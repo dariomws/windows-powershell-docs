@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 580A19CF-26D1-45BB-AD34-A6265E2EFACF
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -303,4 +303,5 @@ This cmdlet returns an object that represents the initiator port you specified.
 [Select-Object](http://go.microsoft.com/fwlink/?LinkID=113387)
 
 [Set-InitiatorPort](./Set-InitiatorPort.md)
+
 

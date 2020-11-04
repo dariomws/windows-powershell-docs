@@ -3,7 +3,7 @@ external help file: VAMT_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 9A625320-4C23-45B8-87B6-FE02B5E99EE3
 manager: dansimp
@@ -84,4 +84,5 @@ Accept wildcard characters: False
 [Add-VamtProductKey](./Add-VamtProductKey.md)
 
 [Install-VamtProductKey](./Install-VamtProductKey.md)
+
 

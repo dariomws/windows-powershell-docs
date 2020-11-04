@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -650,4 +650,5 @@ Get-ADFineGrainedPasswordPolicy \<fine grained password policy\> -Properties * |
 [Remove-ADFineGrainedPasswordPolicySubject](./Remove-ADFineGrainedPasswordPolicySubject.md)
 
 [Set-ADFineGrainedPasswordPolicy](./Set-ADFineGrainedPasswordPolicy.md)
+
 

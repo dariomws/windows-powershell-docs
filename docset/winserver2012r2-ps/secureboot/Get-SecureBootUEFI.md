@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 254A50F5-D51F-4432-AAAD-83A14E273B79
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -116,4 +116,5 @@ The UEFIEnvironmentVariable object contains the following properties:
 [Get-SecureBootPolicy](./Get-SecureBootPolicy.md)
 
 [Set-SecureBootUEFI](./Set-SecureBootUEFI.md)
+
 

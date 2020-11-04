@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: A9C4B90C-173A-45BA-A8CF-8A0D27C387C9
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -264,4 +264,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-UalDailyUserAccess](./Get-UalDailyUserAccess.md)
 
 [Get-UalDeviceAccess](./Get-UalDeviceAccess.md)
+
 

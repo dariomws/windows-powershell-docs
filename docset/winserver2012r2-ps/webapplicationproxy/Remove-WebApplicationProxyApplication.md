@@ -12,7 +12,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 40B9DAF7-48F3-425F-806A-9A6A9F1566A6
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -175,4 +175,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-WebApplicationProxyApplication](./Get-WebApplicationProxyApplication.md)
 
 [Set-WebApplicationProxyApplication](./Set-WebApplicationProxyApplication.md)
+
 

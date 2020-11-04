@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 288ACAD9-7678-45C2-B7B4-3A0522FEA499
 manager: dansimp
@@ -357,4 +357,5 @@ The **Get-StoragePool** cmdlet returns objects representing storage pools.
 [Remove-StoragePool](./Remove-StoragePool.md)
 
 [Set-StoragePool](./Set-StoragePool.md)
+
 

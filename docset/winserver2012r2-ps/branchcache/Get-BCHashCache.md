@@ -4,7 +4,7 @@ Module Name: BranchCache
 online version: 
 schema: 2.0.0
 title: Get-BCHashCache
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -111,4 +111,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Disable-BC](./Disable-BC.md)
 
 [Reset-BC](./Reset-BC.md)
+
 

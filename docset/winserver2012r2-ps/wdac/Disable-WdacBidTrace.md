@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: EF357356-FDCE-4016-AB5E-34F841B412CB
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -314,5 +314,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Enable-WdacBidTrace](./Enable-WdacBidTrace.md)
 
 [Get-WdacBidTrace](./Get-WdacBidTrace.md)
+
 
 

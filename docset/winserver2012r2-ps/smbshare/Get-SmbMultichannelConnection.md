@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 8BD99095-AB93-4A86-9BCE-9CFE31C2AFAB
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -254,4 +254,5 @@ The MSFT_SmbMultiChannelConnection object represents a pair of a client and a se
 ## RELATED LINKS
 
 [Update-SmbMultichannelConnection](./Update-SmbMultichannelConnection.md)
+
 

@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: A7EF71FD-F7F6-4231-8799-0E96DD9EAC84
 manager: dansimp
@@ -273,4 +273,5 @@ This cmdlet outputs an object that represents a masking set.
 [Rename-MaskingSet](./Rename-MaskingSet.md)
 
 [Get-VirtualDisk](./Get-VirtualDisk.md)
+
 

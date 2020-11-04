@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 78A09E46-FAC1-4CBC-BE30-B17148D7CA14
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -183,4 +183,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-WebConfigurationLock](./Get-WebConfigurationLock.md)
 
 [Remove-WebConfigurationLock](./Remove-WebConfigurationLock.md)
+
 

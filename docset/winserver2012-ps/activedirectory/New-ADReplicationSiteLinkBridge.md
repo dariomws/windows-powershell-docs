@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -391,4 +391,5 @@ A site link bridge object that is a template for the new site link bridge object
 [Remove-ADReplicationSiteLinkBridge](./Remove-ADReplicationSiteLinkBridge.md)
 
 [Set-ADReplicationSiteLinkBridge](./Set-ADReplicationSiteLinkBridge.md)
+
 

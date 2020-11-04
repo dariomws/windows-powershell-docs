@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: SmbShare.cdxml-help.xml
@@ -431,4 +431,5 @@ This cmdlet returns a **MSFT_SmbShare** object that represents the modified shar
 [New-SmbShare](./New-SmbShare.md)
 
 [Remove-SmbShare](./Remove-SmbShare.md)
+
 

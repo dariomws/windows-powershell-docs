@@ -4,7 +4,7 @@ Module Name: ActiveDirectory
 online version: 
 schema: 2.0.0
 title: New-ADUser
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -1386,4 +1386,5 @@ By default, this cmdlet does not generate any output.
 [Set-ADUser](./Set-ADUser.md)
 
 [Set-ADAccountPassword](./Set-ADAccountPassword.md)
+
 

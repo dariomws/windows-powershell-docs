@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 600994B2-F6D9-42AF-9691-0ED76208FF5C
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -352,4 +352,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Remove-WdsInstallImage](./Remove-WdsInstallImage.md)
 
 [Set-WdsInstallImage](./Set-WdsInstallImage.md)
+
 

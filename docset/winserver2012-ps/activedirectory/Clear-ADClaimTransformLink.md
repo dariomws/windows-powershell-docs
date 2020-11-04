@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -304,4 +304,5 @@ An account object (Microsoft.ActiveDirectory.Management.ADTrust) is received by 
 ## NOTES
 
 ## RELATED LINKS
+
 

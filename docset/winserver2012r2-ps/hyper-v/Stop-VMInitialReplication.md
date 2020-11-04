@@ -4,7 +4,7 @@ Module Name: Hyper-V
 online version: 
 schema: 2.0.0
 title: Stop-VMInitialReplication
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -186,4 +186,5 @@ None by default; **Microsoft.HyperV.PowerShell.VirtualMachine** if **-PassThru**
 ## NOTES
 
 ## RELATED LINKS
+
 

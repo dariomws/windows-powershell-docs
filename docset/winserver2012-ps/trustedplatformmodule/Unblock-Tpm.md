@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -107,4 +107,5 @@ A **TpmObject** object contains the following information:
 [Get-Tpm](./Get-Tpm.md)
 
 [Initialize-Tpm](./Initialize-Tpm.md)
+
 

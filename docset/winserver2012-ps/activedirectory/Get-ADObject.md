@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -696,4 +696,5 @@ Get-ADObject \<object\> -Properties ALL | Get-Member
 [Remove-ADObject](./Remove-ADObject.md)
 
 [Set-ADObject](./Set-ADObject.md)
+
 

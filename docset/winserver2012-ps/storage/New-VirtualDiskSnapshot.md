@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: B5414111-13A8-44ED-8AF0-83F6A8192DB0
 manager: dansimp
@@ -217,4 +217,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 ## RELATED LINKS
 
 [Get-VirtualDisk](./Get-VirtualDisk.md)
+
 

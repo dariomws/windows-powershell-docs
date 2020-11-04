@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: wsbcmdlet.dll-Help.xml
@@ -93,5 +93,6 @@ The cmdlet removes the **WBSystemState** object if it is present.
 [Get-WBPolicy](./Get-WBPolicy.md)
 
 [Get-WBSystemState](./Get-WBSystemState.md)
+
 
 

@@ -12,7 +12,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 7009111B-1464-4D08-81D5-0B68462C428D
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -194,4 +194,5 @@ The DAMultiSite object contains the last multi-site configuration that was remov
 [Get-DAMultiSite](./Get-DAMultiSite.md)
 
 [Set-DAMultiSite](./Set-DAMultiSite.md)
+
 

@@ -12,7 +12,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 896A7FBB-B98F-4B26-AC42-0811C232B5ED
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -389,4 +389,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Remove-WebApplicationProxyApplication](./Remove-WebApplicationProxyApplication.md)
 
 [Set-WebApplicationProxyApplication](./Set-WebApplicationProxyApplication.md)
+
 

@@ -3,7 +3,7 @@ external help file: MSFT_DASiteTableEntry.cdxml-help.xml
 ms.assetid: CC431359-C693-42CB-9D09-49D886FA8255
 manager: dansimp
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 online version: 
 schema: 2.0.0
@@ -139,4 +139,5 @@ This cmdlet has no input objects.
 ## RELATED LINKS
 
 [Enable-DAManualEntryPointSelection](./Enable-DAManualEntryPointSelection.md)
+
 

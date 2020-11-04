@@ -5,7 +5,7 @@ schema: 2.0.0
 ms.assetid: 8DAC6B1C-D6DF-4F00-85F4-ABADA50E78A1
 manager: dansimp
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -141,4 +141,5 @@ Accept wildcard characters: False
 [Start-ClusterGroup](./Start-ClusterGroup.md)
 
 [Stop-ClusterGroup](./Stop-ClusterGroup.md)
+
 

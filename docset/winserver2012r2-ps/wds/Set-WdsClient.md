@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: E694C93B-F4A5-4E83-A1D4-88FCE5D4435C
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -509,4 +509,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [New-WdsClient](./New-WdsClient.md)
 
 [Remove-WdsClient](./Remove-WdsClient.md)
+
 

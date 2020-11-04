@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 7BC49A0B-D4DE-4351-8FC8-FB93946E98E4
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -133,4 +133,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-WebVirtualDirectory](./Get-WebVirtualDirectory.md)
 
 [Remove-WebVirtualDirectory](./Remove-WebVirtualDirectory.md)
+
 

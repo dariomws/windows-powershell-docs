@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: A63421F6-0F69-4D67-8BAA-34B5736C659F
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -162,4 +162,5 @@ The MSFT_SmbClientNetworkInterface object represents the network interfaces used
 ## RELATED LINKS
 
 [Get-SmbServerNetworkInterface](./Get-SmbServerNetworkInterface.md)
+
 

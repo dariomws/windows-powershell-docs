@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 6D5C5FFD-47E0-4B8C-8366-149D8D36B456
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -414,4 +414,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 ## RELATED LINKS
 
 [Get-StorageSubsystem](./Get-StorageSubsystem.md)
+
 

@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -384,4 +384,5 @@ Returns an ADResultantPasswordReplicationPolicy enum value that represents the r
 [Get-ADUser](./Get-ADUser.md)
 
 [Search-ADAccount](./Search-ADAccount.md)
+
 

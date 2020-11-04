@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: CB313464-2C56-422B-91B7-9C8B47636B1E
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -221,4 +221,5 @@ This cmdlet returns an object that represents the target portal.
 ## RELATED LINKS
 
 [Get-TargetPort](./Get-TargetPort.md)
+
 

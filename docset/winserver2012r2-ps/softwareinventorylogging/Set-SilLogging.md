@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 00C6A020-B0DE-47AD-8778-19C444A2A90D
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -192,4 +192,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Stop-SilLogging](./Stop-SilLogging.md)
 
 [Publish-SilData](./Publish-SilData.md)
+
 

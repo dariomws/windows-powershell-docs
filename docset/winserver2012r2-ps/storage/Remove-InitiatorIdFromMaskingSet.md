@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: BB678E72-FCDF-48EF-8D92-AF8FB42EAE20
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -242,4 +242,5 @@ If you specify the Passthru parameter, this cmdlet outputs an object that repres
 ## RELATED LINKS
 
 [Get-InitiatorID](./Get-InitiatorId.md)
+
 

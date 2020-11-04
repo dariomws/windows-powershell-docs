@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: DD977856-6C27-4A52-A88E-FB4BC2C0390C
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -146,4 +146,5 @@ This cmdlet outputs one or more objects that represents the ODX settings for one
 ## RELATED LINKS
 
 [Get-StorageSubSystem](./Get-StorageSubsystem.md)
+
 

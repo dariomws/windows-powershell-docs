@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 07048C7F-39AD-4C98-B700-7CA2B3933ABC
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -224,4 +224,5 @@ If you specify the **Passthru** parameter, this cmdlet returns an object that re
 ## RELATED LINKS
 
 [Register-StorageSubsystem](./Register-StorageSubsystem.md)
+
 

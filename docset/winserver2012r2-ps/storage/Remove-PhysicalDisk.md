@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: BDA3A89C-247C-4D07-B11C-DF8E96853D35
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -317,4 +317,5 @@ This cmdlet does not generate output.
 [Get-StoragePool](./Get-StoragePool.md)
 
 [Get-VirtualDisk](./Get-VirtualDisk.md)
+
 

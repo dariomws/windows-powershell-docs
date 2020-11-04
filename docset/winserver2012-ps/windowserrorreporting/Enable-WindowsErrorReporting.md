@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -58,4 +58,5 @@ The **Enable-WindowsErrorReporting** cmdlet returns $True if successful; otherwi
 [Get-WindowsErrorReporting](./Get-WindowsErrorReporting.md)
 
 [Disable-WindowsErrorReporting](./Disable-WindowsErrorReporting.md)
+
 

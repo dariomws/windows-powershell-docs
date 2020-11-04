@@ -12,7 +12,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 99D86A99-E40A-45E1-B048-06172CB73BE7
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -185,4 +185,5 @@ If the cmdlet gets a single application, it displays the properties of the appli
 [Remove-WebApplicationProxyApplication](./Remove-WebApplicationProxyApplication.md)
 
 [Set-WebApplicationProxyApplication](./Set-WebApplicationProxyApplication.md)
+
 

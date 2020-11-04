@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 05F15031-FB69-4603-AE1D-078C5930F14B
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -207,4 +207,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Remove-VpnConnectionTriggerTrustedNetwork](./Remove-VpnConnectionTriggerTrustedNetwork.md)
 
 [Get-VpnConnectionTrigger](./Get-VpnConnectionTrigger.md)
+
 

@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -368,4 +368,5 @@ An optional feature object is received by the Identity parameter.
 [Enable-ADOptionalFeature](./Enable-ADOptionalFeature.md)
 
 [Get-ADOptionalFeature](./Get-ADOptionalFeature.md)
+
 

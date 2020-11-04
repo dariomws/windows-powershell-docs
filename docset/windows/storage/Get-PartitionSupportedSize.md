@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: Partition.cdxml-help.xml
@@ -229,5 +229,6 @@ You can pipe a Partition object to the **InputObject** parameter.
 ## RELATED LINKS
 
 [Get-Partition](./Get-Partition.md)
+
 
 

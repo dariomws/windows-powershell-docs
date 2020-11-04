@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: SmbMultichannelConnection.cdxml-help.xml
@@ -254,5 +254,6 @@ The **MSFT_SmbMultiChannelConnection** object represents a pair of a client and 
 ## RELATED LINKS
 
 [Update-SmbMultichannelConnection](./Update-SmbMultichannelConnection.md)
+
 
 

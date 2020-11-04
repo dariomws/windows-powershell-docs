@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 188FB11F-E503-4A30-9A09-B6A89FAC54A7
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -149,4 +149,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Remove-WebManagedModule](./Remove-WebManagedModule.md)
 
 [Set-WebManagedModule](./Set-WebManagedModule.md)
+
 

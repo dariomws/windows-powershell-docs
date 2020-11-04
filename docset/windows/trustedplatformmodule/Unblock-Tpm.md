@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: Microsoft.Tpm.Commands.dll-Help.xml
@@ -116,5 +116,6 @@ This cmdlet returns a **TpmObject** object contains the following information:
 [Get-Tpm](./Get-Tpm.md)
 
 [Initialize-Tpm](./Initialize-Tpm.md)
+
 
 

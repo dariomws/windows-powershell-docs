@@ -4,7 +4,7 @@ Module Name: BranchCache
 online version: 
 schema: 2.0.0
 title: Set-BCSecretKey
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -174,4 +174,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Export-BCSecretKey](./Export-BCSecretKey.md)
 
 [Import-BCSecretKey](./Import-BCSecretKey.md)
+
 

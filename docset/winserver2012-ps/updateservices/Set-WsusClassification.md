@@ -3,7 +3,7 @@ external help file: WSUS_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 6207A305-EFCA-40EE-B997-2A939DD9BE7A
 manager: dansimp
@@ -118,4 +118,5 @@ Accept wildcard characters: False
 [Where-Object](http://go.microsoft.com/fwlink/?LinkID=113423)
 
 [Get-WsusClassification](./Get-WsusClassification.md)
+
 

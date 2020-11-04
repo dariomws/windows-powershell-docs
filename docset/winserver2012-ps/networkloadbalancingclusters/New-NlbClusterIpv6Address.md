@@ -3,7 +3,7 @@ external help file: NLB_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 3A379E5D-C44B-44FF-A609-C6DF837AE844
 manager: dansimp
@@ -117,4 +117,5 @@ Accept wildcard characters: False
 [Add-NlbClusterVip](./Add-NlbClusterVip.md)
 
 [New-NlbCluster](./New-NlbCluster.md)
+
 

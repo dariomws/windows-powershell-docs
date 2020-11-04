@@ -4,7 +4,7 @@ Module Name: Hyper-V
 online version: 
 schema: 2.0.0
 title: Remove-VMNetworkAdapterExtendedAcl
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 description: 
 keywords: powershell, cmdlet
@@ -300,4 +300,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-VM](./Get-VM.md)
 
 [Get-VMNetworkAdapter](./Get-VMNetworkAdapter.md)
+
 

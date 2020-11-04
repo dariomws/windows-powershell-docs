@@ -3,7 +3,7 @@ external help file: SmbShare_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: D0052C35-1789-4FF7-A349-AE9D98A13946
 manager: dansimp
@@ -185,4 +185,5 @@ The MSFT_SmbServerNetworkInterface object represents the network interfaces of t
 ## RELATED LINKS
 
 [Get-SmbClientNetworkInterface](./Get-SmbClientNetworkInterface.md)
+
 

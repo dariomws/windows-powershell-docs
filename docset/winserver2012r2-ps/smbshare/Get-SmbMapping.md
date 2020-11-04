@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: F7E6F380-A274-4326-B121-49128FF2A37B
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -163,4 +163,5 @@ The MSFT_SmbMapping object represents the mappings created from the SMB client t
 [New-SmbMapping](./New-SmbMapping.md)
 
 [Remove-SmbMapping](./Remove-SmbMapping.md)
+
 

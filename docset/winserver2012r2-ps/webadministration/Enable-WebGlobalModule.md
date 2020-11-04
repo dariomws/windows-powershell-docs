@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 59C27F43-7D72-4D8C-8D4F-42ED6E220E03
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -176,4 +176,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Remove-WebGlobalModule](./Remove-WebGlobalModule.md)
 
 [Set-WebGlobalModule](./Set-WebGlobalModule.md)
+
 

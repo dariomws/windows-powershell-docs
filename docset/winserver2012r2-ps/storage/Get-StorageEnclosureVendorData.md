@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 3520523A-5EFA-4D71-ADDA-F6F3DFB88271
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -189,4 +189,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Disable-StorageEnclosureIdentification](./Disable-StorageEnclosureIdentification.md)
 
 [Enable-StorageEnclosureIdentification](./Enable-StorageEnclosureIdentification.md)
+
 

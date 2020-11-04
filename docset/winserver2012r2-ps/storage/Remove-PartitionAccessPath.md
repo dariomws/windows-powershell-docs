@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: B93780DE-7FBB-4C98-B2DC-8B4AA4CDE0CA
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -291,4 +291,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Add-PartitionAccessPath](./Add-PartitionAccessPath.md)
 
 [Get-Partition](./Get-Partition.md)
+
 

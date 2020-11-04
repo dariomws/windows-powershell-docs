@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: ECE6EC80-B77D-4087-9BE7-A38FC05FBE73
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -332,4 +332,5 @@ You can use the pipeline operator to pass an MSFT_VirtualDisk object to the **In
 [Resize-VirtualDisk](./Resize-VirtualDisk.md)
 
 [Show-VirtualDisk](./Show-VirtualDisk.md)
+
 

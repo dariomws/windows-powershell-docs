@@ -12,7 +12,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 6EE4F3B0-6A70-4DB4-BA36-EDCE8B546512
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -169,4 +169,5 @@ Displays the Web Application Proxy configuration.
 [Publishing Internal Applications using Web Application](http://technet.microsoft.com/library/dn383650.aspx)
 
 [Set-WebApplicationProxyConfiguration](./Set-WebApplicationProxyConfiguration.md)
+
 

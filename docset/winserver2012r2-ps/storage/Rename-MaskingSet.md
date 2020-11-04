@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 4F91AE4E-7229-4C64-9CE8-8C3A53FA71BC
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -241,4 +241,5 @@ If you use the **Passthru** parameter, this cmdlet returns an object representin
 [New-MaskingSet](./New-MaskingSet.md)
 
 [Remove-MaskingSet](./Remove-MaskingSet.md)
+
 

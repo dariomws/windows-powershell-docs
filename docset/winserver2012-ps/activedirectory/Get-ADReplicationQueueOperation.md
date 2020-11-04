@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -226,4 +226,5 @@ A class structure that represents one or more Active Directory replication opera
 ## NOTES
 
 ## RELATED LINKS
+
 

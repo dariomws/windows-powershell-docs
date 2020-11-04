@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 12C3BB17-8513-458E-AC0E-ED9776F2CD32
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -290,4 +290,5 @@ The VpnConnection object contains the VpnConnection configuration settings.
 [Set-VpnConnection](./Set-VpnConnection.md)
 
 [New-EapConfiguration](./New-EapConfiguration.md)
+
 

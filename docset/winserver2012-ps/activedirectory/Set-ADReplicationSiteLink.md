@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -568,4 +568,5 @@ A site link object that was retrieved by using the Get-ADReplicationSitLink cmdl
 [New-ADReplicationSiteLink](./New-ADReplicationSiteLink.md)
 
 [Remove-ADReplicationSiteLink](./Remove-ADReplicationSiteLink.md)
+
 

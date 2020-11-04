@@ -3,7 +3,7 @@ external help file: Storage2_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: DA859E65-3EFD-4C3D-95F0-9C0F4687D302
 manager: dansimp
@@ -297,4 +297,5 @@ If you specify the **Passthru** parameter, this cmdlet outputs a Partition objec
 [Remove-PartitionAccessPath](./Remove-PartitionAccessPath.md)
 
 [Set-Partition](./Set-Partition.md)
+
 

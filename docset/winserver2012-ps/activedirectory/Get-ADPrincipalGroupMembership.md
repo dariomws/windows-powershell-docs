@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -477,4 +477,5 @@ Specify the additional properties required from the group objects by passing the
 [Remove-ADGroupMember](./Remove-ADGroupMember.md)
 
 [Remove-ADPrincipalGroupMembership](./Remove-ADPrincipalGroupMembership.md)
+
 

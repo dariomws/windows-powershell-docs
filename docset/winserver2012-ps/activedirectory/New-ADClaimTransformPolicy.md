@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -456,4 +456,5 @@ A claims transformation policy object that is a template for the new claims tran
   This cmdlet does not work with a read-only domain controller.
 
 ## RELATED LINKS
+
 

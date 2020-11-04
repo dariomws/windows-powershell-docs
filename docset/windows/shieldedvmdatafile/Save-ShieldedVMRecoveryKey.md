@@ -4,7 +4,7 @@ Module Name: ShieldedVMDataFile
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 title: Save-ShieldedVMRecoveryKey
 ---
@@ -156,3 +156,4 @@ Accept wildcard characters: False
 ## RELATED LINKS
 
 [Unprotect-ShieldedVMRecoveryKey](Unprotect-ShieldedVMRecoveryKey.md)
+

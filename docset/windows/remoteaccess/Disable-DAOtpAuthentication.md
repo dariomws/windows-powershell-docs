@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: PS_DAOtpAuthentication_v1.0.0.cdxml-help.xml
@@ -225,5 +225,6 @@ The DAOtpAuth object contains the following OTP authentication configuration set
 [Get-DAOtpAuthentication](./Get-DAOtpAuthentication.md)
 
 [Set-DAOtpAuthentication](./Set-DAOtpAuthentication.md)
+
 
 

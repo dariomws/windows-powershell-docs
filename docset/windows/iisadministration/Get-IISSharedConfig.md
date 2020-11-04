@@ -12,7 +12,7 @@ ms.topic: reference
 online version: 
 schema: 2.0.0
 title: Get-IISSharedConfig
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer:
 ---
 
@@ -58,5 +58,6 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Disable-IISSharedConfig](./Disable-IISSharedConfig.md)
 
 [Enable-IISSharedConfig](./Enable-IISSharedConfig.md)
+
 
 

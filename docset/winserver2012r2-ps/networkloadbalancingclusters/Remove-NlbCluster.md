@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: 30471E44-2018-4F6E-BF60-D5C21240D3EF
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -166,4 +166,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Stop-NlbCluster](./Stop-NlbCluster.md)
 
 [Suspend-NlbCluster](./Suspend-NlbCluster.md)
+
 

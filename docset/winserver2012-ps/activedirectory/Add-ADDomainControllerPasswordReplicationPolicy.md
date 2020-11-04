@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -285,4 +285,5 @@ An RODC object is received by the *Identity* parameter.
 [Get-ADDomainController](./Get-ADDomainController.md)
 
 [Get-ADDomainControllerPasswordReplicationPolicy](./Get-ADDomainControllerPasswordReplicationPolicy.md)
+
 

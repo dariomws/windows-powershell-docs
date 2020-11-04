@@ -3,7 +3,7 @@ external help file: VpnClient_Cmdlets.xml
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ms.assetid: 61959313-33E4-4933-9083-A8F7A079F057
 manager: dansimp
@@ -380,4 +380,5 @@ The VpnConnection object contains the VpnConnection configuration settings.
 [Remove-VpnConnection](./Remove-VpnConnection.md)
 
 [New-EapConfiguration](./New-EapConfiguration.md)
+
 

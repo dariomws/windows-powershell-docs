@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: D6192DDC-C09D-4CB3-B406-A1AD801D3DED
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -352,4 +352,5 @@ You can pipe an MSFT_VirtualDisk object to the VirtualDisk parameter.
 [Reset-PhysicalDisk](./Reset-PhysicalDisk.md)
 
 [Set-PhysicalDisk](./Set-PhysicalDisk.md)
+
 

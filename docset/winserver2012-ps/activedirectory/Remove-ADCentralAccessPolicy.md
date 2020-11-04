@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -244,4 +244,5 @@ An Active Directory object is received by the Identity parameter.
 To bypass prompting for confirmation before removal, you can specify -Confirm:$false when using this cmdlet.
 
 ## RELATED LINKS
+
 

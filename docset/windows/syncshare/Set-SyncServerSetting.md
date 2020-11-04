@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: SyncServerSetting.cdxml-help.xml
@@ -259,5 +259,6 @@ This cmdlet returns an object that changes the synchronization configuration on 
 ## RELATED LINKS
 
 [Get-SyncServerSetting](./Get-SyncServerSetting.md)
+
 
 

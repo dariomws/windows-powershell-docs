@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -258,4 +258,5 @@ Returns one or more account objects that represent the users, computers, and ser
 ## RELATED LINKS
 
 [Get-ADDomainController](./Get-ADDomainController.md)
+
 

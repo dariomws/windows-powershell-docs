@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -353,4 +353,5 @@ Get-ADDomain \<domain\>| Get-Member
 [Set-ADDomain](./Set-ADDomain.md)
 
 [Set-ADDomainMode](./Set-ADDomainMode.md)
+
 

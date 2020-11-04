@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: C6163BC8-F560-48B2-893E-4A840C64B2C3
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -161,4 +161,5 @@ This cmdlet generates an **MSFT_FileIntegrity** object.
 [Repair-FileIntegrity](./Repair-FileIntegrity.md)
 
 [Set-FileIntegrity](./Set-FileIntegrity.md)
+
 

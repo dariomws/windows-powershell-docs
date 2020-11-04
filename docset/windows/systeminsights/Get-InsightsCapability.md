@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 Module Name: systeminsights
 Download Help Link: http://go.microsoft.com
 Locale: en-US
@@ -124,4 +124,5 @@ The cmdlet returns one or more objects that represent the specified capabilities
 [Get-InsightsCapabilityAction](get-insightscapabilityaction.md)
 
 [Get-InsightsCapabilityResult](get-insightscapabilityresult.md)
+
 

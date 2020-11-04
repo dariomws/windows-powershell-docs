@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -383,4 +383,5 @@ A subnet object is received by the Identity parameter.
 [Remove-ADReplicationSubnet](./Remove-ADReplicationSubnet.md)
 
 [Set-ADReplicationSubnet](./Set-ADReplicationSubnet.md)
+
 

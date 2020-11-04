@@ -1,7 +1,7 @@
 ---
 ms.mktglfcycl: manage
 ms.sitesec: library
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 description: Use this topic to help manage Windows and Windows Server technologies with Windows PowerShell.
 external help file: SyncShare.cdxml-help.xml
@@ -390,5 +390,6 @@ This cmdlet outputs an object that represents the new Sync Share.
 [Remove-SyncShare](./Remove-SyncShare.md)
 
 [Set-SyncShare](./Set-SyncShare.md)
+
 
 

@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: EC246652-9911-45B8-BC1B-1CCF9D0EB73F
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -117,4 +117,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [New-TlsSessionTicketKey](./New-TlsSessionTicketKey.md)
 
 [Export-TlsSessionTicketKey](./Export-TlsSessionTicketKey.md)
+
 

@@ -13,7 +13,7 @@ ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
 ms.assetid: C3EAE945-28A4-4D9F-A529-BA9F8430A2B5
-ms.author: v-anbarr
+ms.author: v-kaunu
 ms.reviewer: brianlic
 ---
 
@@ -199,4 +199,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [New-SyncShare](./New-SyncShare.md)
 
 [Set-SyncShare](./Set-SyncShare.md)
+
 

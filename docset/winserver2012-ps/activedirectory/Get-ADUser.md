@@ -5,7 +5,7 @@ manager: dansimp
 online version: 
 schema: 2.0.0
 ms.reviewer:
-ms.author: v-anbarr
+ms.author: v-kaunu
 author: andreabarr
 ---
 
@@ -459,3 +459,4 @@ To get a list of all the properties of an **ADUser** object, use the following c
 [Remove-ADUser](./Remove-ADUser.md)
 
 [Set-ADUser](./Set-ADUser.md)
+
