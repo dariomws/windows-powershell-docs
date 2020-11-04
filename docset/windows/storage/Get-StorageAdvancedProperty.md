@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version:
 schema: 2.0.0
@@ -92,4 +92,5 @@ The cmdlet gets the advanced properties for **PhysicalDisk** objects: **IsPowerP
 ## RELATED LINKS
 
 [Get-PhysicalDisk](./Get-PhysicalDisk.md)
+
 

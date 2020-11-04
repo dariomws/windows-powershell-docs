@@ -11,7 +11,7 @@ ms.date: 12/20/2016
 ms.mktglfcycl: manage
 ms.prod: w10
 ms.sitesec: library
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -85,4 +85,5 @@ This cmdlet returns a Byte\[\] array that represents the raw key protector struc
 ## RELATED LINKS
 
 [Shielded Virtual Machine Provioning Cmdlets in Windows PowerShell](./shieldedvmprovisioning.md)
+
 

@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/27/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -184,4 +184,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-WebConfigurationLock](./Get-WebConfigurationLock.md)
 
 [Remove-WebConfigurationLock](./Remove-WebConfigurationLock.md)
+
 

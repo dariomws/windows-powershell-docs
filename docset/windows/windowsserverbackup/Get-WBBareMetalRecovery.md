@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/27/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -89,4 +89,5 @@ This cmdlet returns a Boolean value to indicate whether the server can run backu
 [Add-WBBareMetalRecovery](./Add-WBBareMetalRecovery.md)
 
 [Remove-WBBareMetalRecovery](./Remove-WBBareMetalRecovery.md)
+
 

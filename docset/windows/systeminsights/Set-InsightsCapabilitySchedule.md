@@ -15,7 +15,7 @@ manager: elizapo
 ms.date: 6/18/18
 ms.topic: reference
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.assetid: 38D3C111-46AB-4E35-944F-5AC57EEB55A7
 schema: 2.0.0
 ---
@@ -332,3 +332,4 @@ You can use the pipeline operator to pass a capability object to the *Name* para
 [Enable-InsightsCapabilitySchedule](enable-insightscapabilityschedule.md)
 
 [Disable-InsightsCapabilitySchedule](disable-insightscapabilityschedule.md)
+

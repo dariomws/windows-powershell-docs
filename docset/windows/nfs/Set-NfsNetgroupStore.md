@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -282,4 +282,5 @@ You can use this parameter, or you can pipe the input to this cmdlet.
 [Get-NfsNetgroupStore](./Get-NfsNetgroupStore.md)
 
 [Set-NfsMappingStore](./Set-NfsMappingStore.md)
+
 

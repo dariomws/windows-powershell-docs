@@ -7,7 +7,7 @@ ms.assetid: D7752E90-7913-4250-97CC-6178FDE9A955
 manager: dansimp
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -224,4 +224,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [New-IISSiteBinding](./New-IISSiteBinding.md)
 
 [IIS Administration Cmdlets for Windows PowerShell](./iisadministration.md)
+
 

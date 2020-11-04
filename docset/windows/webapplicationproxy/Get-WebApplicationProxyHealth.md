@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -74,4 +74,5 @@ The return value is 1 if healthy, and any other value for non-healthy.
 [Get-WebApplicationProxyApplication](./Get-WebApplicationProxyApplication.md)
 
 [Get-WebApplicationProxyConfiguration](./Get-WebApplicationProxyConfiguration.md)
+
 

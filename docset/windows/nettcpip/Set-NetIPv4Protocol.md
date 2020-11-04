@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -529,4 +529,5 @@ The path after the pound sign (`#`) provides the namespace and class name for th
 [Architectural Overview of the TCP/IP Protocol Suite on TechNet](http://technet.microsoft.com/library/bb726993.aspx)
 
 [Get-NetIPv4Protocol](./Get-NetIPv4Protocol.md)
+
 

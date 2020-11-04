@@ -10,7 +10,7 @@ ms.date: 12/20/2016
 ms.mktglfcycl: manage
 ms.prod: w10
 ms.sitesec: library
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -106,4 +106,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Enable-TlsCipherSuite](./Enable-TlsCipherSuite.md)
 
 [Get-TlsCipherSuite](./Get-TlsCipherSuite.md)
+
 

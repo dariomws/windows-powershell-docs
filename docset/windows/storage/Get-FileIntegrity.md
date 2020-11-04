@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version:
 schema: 2.0.0
@@ -162,4 +162,5 @@ This cmdlet generates an **MSFT_FileIntegrity** object.
 [Repair-FileIntegrity](./Repair-FileIntegrity.md)
 
 [Set-FileIntegrity](./Set-FileIntegrity.md)
+
 

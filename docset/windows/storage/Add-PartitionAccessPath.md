@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version:
 schema: 2.0.0
@@ -318,4 +318,5 @@ If you specify the *Passthru* parameter, this cmdlet outputs a Partition object 
 [Remove-PartitionAccessPath](./Remove-PartitionAccessPath.md)
 
 [Set-Partition](./Set-Partition.md)
+
 

@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version:
 schema: 2.0.0
@@ -243,4 +243,5 @@ If you use the *PassThru* parameter, this cmdlet returns an object representing 
 [New-MaskingSet](./New-MaskingSet.md)
 
 [Remove-MaskingSet](./Remove-MaskingSet.md)
+
 

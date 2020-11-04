@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version:
 schema: 2.0.0
@@ -483,4 +483,5 @@ The **Get-StoragePool** cmdlet returns objects representing storage pools.
 [Get-StorageNode](./Get-StorageNode.md)
 
 [Get-StorageTier](./Get-StorageTier.md)
+
 

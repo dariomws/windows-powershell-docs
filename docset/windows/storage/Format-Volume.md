@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version:
 schema: 2.0.0
@@ -500,4 +500,5 @@ This cmdlet returns an object that represents the newly formatted volume.
 [Repair-Volume](./Repair-Volume.md)
 
 [Set-Volume](./Set-Volume.md)
+
 

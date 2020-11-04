@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/20/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: https://docs.microsoft.com/powershell/module/UpdateServices/Add-WsusComputer?view=win10-ps
 schema: 2.0.0
@@ -129,3 +129,4 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 [Get-WsusComputer](./Get-WsusComputer.md)
 
 [Get-WsusServer](./Get-WsusServer.md)
+

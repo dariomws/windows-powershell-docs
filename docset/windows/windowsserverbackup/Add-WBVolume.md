@@ -9,7 +9,7 @@ keywords: powershell, cmdlet
 manager: jasgro
 ms.date: 12/27/2016
 ms.prod: w10
-ms.technology: powershell-windows
+ms.technology: 
 ms.topic: reference
 online version: 
 schema: 2.0.0
@@ -108,4 +108,5 @@ This cmdlet returns a list of **WBVolume** objects in the **WBPolicy** object, i
 [New-WBPolicy](./New-WBPolicy.md)
 
 [Remove-WBVolume](./Remove-WBVolume.md)
+
 
